@@ -1,0 +1,8 @@
+Placez ici le pilote JDBC Microsoft SQL Server (fichier mssql-jdbc-12.x.x.jre11.jar),
+uniquement si vous lancez le projet avec compiler.bat / lancer.bat.
+
+Téléchargement : https://learn.microsoft.com/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server
+(décompressez l'archive et copiez le fichier mssql-jdbc-...jre11.jar dans ce dossier).
+
+Avec Visual Studio Code, NetBeans, IntelliJ ou Eclipse, le fichier pom.xml (Maven)
+télécharge le pilote automatiquement : ce dossier peut rester vide.

@@ -1,0 +1,16 @@
+# Compilation
+out/
+target/
+PharmacieStock.jar
+
+# Pilote JDBC (téléchargé par Maven, ou copié à la main : voir lib/LISEZ-MOI.txt)
+lib/*.jar
+
+# Configuration locale : contient le mot de passe de la base
+config.properties
+
+# Éditeurs
+.idea/
+*.iml
+nbproject/private/
+.vscode/settings.json
